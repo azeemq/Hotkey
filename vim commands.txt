@@ -1,0 +1,8 @@
+Vim 
+
+%s/\n\{3,}/\r\r/e
+Reduces multiple blank lines to single blank line
+
+Tab /TYPE\|LIKE
+Tabularize with type or like
+
